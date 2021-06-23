@@ -6,7 +6,7 @@
  Sponsored
 @godfatherTG
 ### group
-[![developers]
-https://t.me/TC_BOTZ.com)
+[![developers](https://t.me/TC_BOTZ.com
+
 RULES
 ADD ME TO GROUP IN MY BOT
