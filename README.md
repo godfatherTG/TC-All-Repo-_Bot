@@ -10,3 +10,4 @@
 
 RULES
 ADD ME TO GROUP IN MY BOT
+Please ADd my channel
