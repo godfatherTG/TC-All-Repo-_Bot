@@ -5,10 +5,8 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/godfatherTG/TC-All-Repo-_Bot/pulls)
  Sponsored
 @godfatherTG
-### group
-<Dec heref="http://t.me/TC_BOTZ.com">
+#### rules
 
-####RULES
 ADD ME TO GROUP IN MY BOT
 Please ADd my channel
 
