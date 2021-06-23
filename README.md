@@ -23,7 +23,6 @@ Please ADd my channel
 
 #### developers
 
-* https://t.me/CFCHATOFICIAL1
-* https://t.me/CTMTMT
-* https://t.me/Cmkmedia
-* Grouphttps://t.me/TC_BOTZ)
+* <p align="https://t.me/CTMTMT">
+  <a href="https://t.me/Cmkmedia">
+    <img src="http://t.me/TC_BOTZ
