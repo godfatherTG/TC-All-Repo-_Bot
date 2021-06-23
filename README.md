@@ -23,6 +23,6 @@ Please ADd my channel
 
 #### developers
 
-* <p align="https://t.me/CTMTMT">
-  <a href="https://t.me/Cmkmedia">
-    <img src="http://t.me/TC_BOTZ
+[<p align="https://t.me/CTMTMT">
+[<a href="https://t.me/Cmkmedia">
+[ <a<img src="http://t.me/TC_BOTZ
