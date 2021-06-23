@@ -1,4 +1,4 @@
-# TC-All-Repo-_Bot
+#### TC-All-Repo-_Bot
 @godfatherTG
 
 ### Deploy to Heroku
@@ -21,8 +21,11 @@ Please ADd my channel
 * Once deployed and bot is started, send a message to channel (must do step)
 * Bot will work not
 
-#### developers
+#### developers & updates
 
-[<p align="https://t.me/CTMTMT">
-[<a href="https://t.me/Cmkmedia">
-[ <a<img src="http://t.me/TC_BOTZ
+* "https://t.me/CTMTMT"
+* "https://t.me/Cmkmedia"
+* "http://t.me/TC_BOTZ"
+#### support & media
+
+@godfatherTG
