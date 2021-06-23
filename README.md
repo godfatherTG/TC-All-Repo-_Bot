@@ -14,7 +14,7 @@ Please ADd my channel
 
 
 
-## How to use the bot
+####How to use the bot
 * Add user account to your channel !
 * Add bot to group with admin rights.
 * Deploy the bot.
