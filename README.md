@@ -41,7 +41,7 @@ Please ADd my channel
 
 
 
-#### You can call this as an Auto Filter Bot if you like :D
+#### You can call this as an All repo bot if you like :D
 #### Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
 
 ## How to use the bot
@@ -52,43 +52,12 @@ Please ADd my channel
 * Bot will work now :)
 
 
-## You can check the video tutorial on how to deploy
-
-[Click here to see tutorial video](https://youtu.be/KQVYQAOsFYY)
+## You can check the video tutorial on how to deplo
 
 Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
 
 ## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
 
 
-## Installationhttps://github.com/godfatherTG/TC-All-Repo-_Bot
-
-### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/godfatherTG/TC-All-Repo-_Bot)
-
-### Deploy in your vps
-```sh
-git clone https://github.com/TroJanzHEX/Auto-Filter-Bot
-cd Auto-Filter-Bot
-pip3 install -r requirements.txt
-# <Create config.py appropriately>
-python3 main.py
-```
-
-## Configs
-
-* TG_BOT_TOKEN  - Get bot token from @BotFather
-
-* APP_ID        - From my.telegram.org (or @UseTGXBot)
-
-* API_HASH      - From my.telegram.org (or @UseTGXBot)
-
-* TG_USER_SESSION  - A pyrogram user session string. Generate by [clicking here](https://repl.it/@SpEcHiDe/GenerateStringSession)
-
-* MAINCHANNEL_ID - Obtain ID of Channel by forwarding a message from your channel to [ChannelIDHEXbot](https://telegram.dog/channelidhexbot)
-
-## Credits
-
-[![see](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
-
-And as always, [SpEcHlDe](https://telegram.dog/SpEcHlDe)
+## Installationhttps://github.com/godfatherTG/TC-All-Repo Deploy to Heroku
+[![Deploy](https://github.com/godfatherTG/TC-All-Repo)
