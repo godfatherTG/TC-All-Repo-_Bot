@@ -41,3 +41,4 @@ Thanks To Me 👀
  [![TroJanz](https://img.shields.io/badge/godfatherTG-Develp-orange?style=for-the-badge&logo=github)](https://github.com/godfatherTG)
 
 [![TroJanz](https://img.shields.io/badge/TCAllRepoBot-sorce-orange?style=for-the-badge&logo=github)](https://github.com/godfatherTG/TC-All-Repo-_Bot)
+[![TroJanz](https://img.shields.io/badge/godfatherTC-Telegram-orange?style=for-the-badge&logo=github)](https://t.me/godfather_TC)
