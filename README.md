@@ -28,4 +28,4 @@ Please ADd my channel
 * "http://t.me/TC_BOTZ"
 #### support & media
 
-@godfatherTG
+https://github.com/godfatherTG
