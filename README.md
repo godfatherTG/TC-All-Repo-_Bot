@@ -29,7 +29,7 @@ Please ADd my channel
 
 * 
 * [![TroJanz](https://img.shields.io/badge/CTMTMT-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/CTMTMT)  
-* [![TroJanz](https://img.shields.io/badge/Cmk-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/CMK)  
+* [![TroJanz](https://img.shields.io/badge/Cmkmedia-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/Cmkmedia)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 #### support & updates
 [![TroJanz](https://img.shields.io/badge/TC_BOTZ-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TC_BOTZ)  
