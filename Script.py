@@ -30,11 +30,11 @@ You can see me in @Cmkmedia <i>help</i></b>"""
 ⭕<b>owner :</b> <a href='https://t.me/CmkMediaadmin'</a> 
 
 
-/crwater :@TC_BOTZ
-/Start : join our channel _ @ TC_BOTZ
-/About : TC_BOTZ
+/crwater :"""@TC_BOTZ
+/Start : """join our channel _ @ TC_BOTZ
+/About :"""TC_BOTZ
 /Restart : """ <b>Hi {}
-
+/Repo : """something went wrong please try again join my group @Cmkmedia
 You can call this as an Auto Filter Bot if you like
 This bot is exclusively made for @Cmkmedia
 
@@ -46,3 +46,7 @@ Restart_MSG = """ JOin our channel @TC_BOTZ
 
 Crwater_MSG = """ @TC_BOTZ Join my channel ops something went wrong
 
+
+/Repo_MSG ="""something went wrong please try again join my group @Cmkmedia
+You can call this as an Auto Filter Bot if you like
+This bot is exclusively made for @Cmkmedia 
