@@ -4,7 +4,7 @@ https://github.com/godfatherTG
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/godfatherTG/TC-All-Repo-_Bot/pulls)
 #### Sponsored
-[![group]https://github.com/godfatherTG)
+[![group](https://github.com/godfatherTG)
 #### rules
 
 ADD ME TO GROUP IN MY BOT
