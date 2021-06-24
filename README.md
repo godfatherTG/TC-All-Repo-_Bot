@@ -3,7 +3,7 @@ https://github.com/godfatherTG
 
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/godfatherTG/TC-All-Repo-_Bot/pulls)
-####Deploy To version 2
+#### Deploy To version 2
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/godfatherTG/TC-All-Repo-_Bot/pulls)
 
 #### rules
