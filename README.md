@@ -31,5 +31,4 @@ Please ADd my channel
 * "https://t.me/Cmkmedia"
 * "
 #### support & updates
-
-@godfatherTG/TC_ALL_ALL-_Repo_Bot
+[![trojazhex]https://github.com/godfatherTG/TC-All-Repo-_Bot)
