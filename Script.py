@@ -42,3 +42,7 @@ You can see me in @Cmkmedia <i>help</i></b>"""
 /help : ""<b>How to use the bot??</b>
 <i>    Sorry you can't use me 😔,for movies join @CTMTMT
 </i>
+Restart_MSG = """ JOin our channel @TC_BOTZ
+
+Crwater_MSG = """ @TC_BOTZ Join my channel ops something went wrong
+
