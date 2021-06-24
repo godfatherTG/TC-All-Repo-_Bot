@@ -29,10 +29,10 @@ Add me to group & channels bot make me to admin
 
 * [![TroJanz](https://img.shields.io/badge/CFCHATOFFICAL1-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/CFCHATOFFICAL1)
 * [![TroJanz](https://img.shields.io/badge/CTMTMT-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/CTMTMT)  
-* [![TroJanz](https://img.shields.io/badge/Cmkmedia-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/Cmkmedia)  
+* [![TroJanz](https://img.shields.io/badge/Cmkmedia-Group-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/Cmkmedia)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 #### support & updates
-[![TroJanz](https://img.shields.io/badge/TC_BOTZ-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TC_BOTZ)  
+[![TroJanz](https://img.shields.io/badge/TC_BOTZ-Develpers-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TC_BOTZ)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 #### create
 Thanks To Dan For His Awsome Libary
