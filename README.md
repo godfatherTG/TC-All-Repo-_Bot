@@ -40,3 +40,4 @@ Thanks To SpEcHiDe For His Awesome DeleteMessagesRoBot
 Thanks To Me 👀
  [![TroJanz](https://img.shields.io/badge/godfatherTG-Develp-orange?style=for-the-badge&logo=github)](https://github.com/godfatherTG)
 
+[![TroJanz](https://img.shields.io/badge/TC-All-Repo-_Bot-sorce-orange?style=for-the-badge&logo=github)](https://github.com/godfatherTG/TC-All-Repo-_Bot)
