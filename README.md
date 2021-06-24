@@ -1,4 +1,4 @@
-#### TC-All-Repo-_Bot version 1
+#### TC-All-Repo_Bot version 1
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/godfatherTG/TC-All-Repo-_Bot/pulls)
 #### Deploy To version 2
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/godfatherTG/TC-All-Repo-_Bot/pulls)
@@ -28,8 +28,8 @@ Please ADd my channel
 #### developers & updates
 
 * 
-* 
-* [![TroJanz](https://img.shields.io/badge/Cmk-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/CTMTMT)  
+* [![TroJanz](https://img.shields.io/badge/CTMTMT-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/CTMTMT)  
+* [![TroJanz](https://img.shields.io/badge/Cmk-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/CMK)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 #### support & updates
 [![TroJanz](https://img.shields.io/badge/TC_BOTZ-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TC_BOTZ)  
