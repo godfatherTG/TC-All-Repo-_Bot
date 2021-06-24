@@ -27,7 +27,7 @@ Please ADd my channel
 
 #### developers & updates
 
-*  [![TroJanz](https://img.shields.io/badge/CFCHATOFICIAL1-Channel-orange?style=for-the-badge&logo=telegram.dog/CFCHATOFICIAL1)
+* [![TroJanz](https://img.shields.io/badge/CFCHATOFICIAL1-Channel-orange?style=for-the-badge&logo=telegram.dog/CFCHATOFICIAL1)
 * [![TroJanz](https://img.shields.io/badge/CTMTMT-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/CTMTMT)  
 * [![TroJanz](https://img.shields.io/badge/Cmkmedia-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/Cmkmedia)  
 ㅤㅤㅤㅤㅤㅤㅤ  
