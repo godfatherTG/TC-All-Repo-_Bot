@@ -30,4 +30,15 @@ You can see me in @Cmkmedia <i>help</i></b>"""
 ⭕<b>owner :</b> <a href='https://t.me/CmkMediaadmin'</a> 
 
 
+/crwater :@TC_BOTZ
+/Start : join our channel _ @ TC_BOTZ
+/About : TC_BOTZ
+/Restart : """ <b>Hi {}
 
+You can call this as an Auto Filter Bot if you like
+This bot is exclusively made for @Cmkmedia
+
+You can see me in @Cmkmedia <i>help</i></b>"""
+/help : ""<b>How to use the bot??</b>
+<i>    Sorry you can't use me 😔,for movies join @CTMTMT
+</i>
