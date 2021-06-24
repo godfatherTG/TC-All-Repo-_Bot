@@ -27,9 +27,9 @@ Please ADd my channel
 
 #### developers & updates
 
-* "https://t.me/CTMTMT"
+* 
 * "https://t.me/Cmkmedia"
-* "http://t.me/TC_BOTZ"
-#### support & media
+* "
+#### support & updates
 
-@godfatherTG
+@godfatherTG/TC_ALL_ALL-_Repo_Bot
