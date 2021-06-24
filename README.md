@@ -43,4 +43,4 @@ Thanks To Me 👀
 [![TroJanz](https://img.shields.io/badge/TCAllRepoBot-sorce-orange?style=for-the-badge&logo=github)](https://github.com/godfatherTG/TC-All-Repo-_Bot)
 
 [![TroJanz](https://img.shields.io/badge/godfatherTC-telegram-orange?style=for-the-badge&logo=github)](https://telegram.dog/godfatherTC)
-
+Bot Sorce Code = join my channel = #### my
