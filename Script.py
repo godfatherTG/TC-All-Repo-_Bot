@@ -47,6 +47,7 @@ Restart_MSG = """ JOin our channel @TC_BOTZ
 Crwater_MSG = """ @TC_BOTZ Join my channel ops something went wrong
 
 
-/Repo_MSG ="""something went wrong please try again join my group @Cmkmedia
+Repo_MSG ="""something went wrong please try again join my group @Cmkmedia
 You can call this as an Auto Filter Bot if you like
 This bot is exclusively made for @Cmkmedia 
+Sorce_MSG =""" https://github.com/godfatherTG/TC-All-Repo-_Bot
