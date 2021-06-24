@@ -34,3 +34,7 @@ Please ADd my channel
 #### support & updates
 [![TroJanz](https://img.shields.io/badge/TC_BOTZ-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TC_BOTZ)  
 ㅤㅤㅤㅤㅤㅤㅤ  
+#### create
+Thanks To Dan For His Awsome Libary
+Thanks To SpEcHiDe For His Awesome DeleteMessagesRoBot
+Thanks To Me 👀
