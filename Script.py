@@ -42,12 +42,12 @@ You can see me in @Cmkmedia <i>help</i></b>"""
 /help : ""<b>How to use the bot??</b>
 <i>    Sorry you can't use me 😔,for movies join @CTMTMT
 </i>
-Restart_MSG = """ JOin our channel @TC_BOTZ
+RESTART_MSG = """ JOin our channel @TC_BOTZ
 
-Crwater_MSG = """ @TC_BOTZ Join my channel ops something went wrong
+CRWATER_MSG = """ @TC_BOTZ Join my channel ops something went wrong
 
 
-Repo_MSG ="""something went wrong please try again join my group @Cmkmedia
+REPO_MSG ="""something went wrong please try again join my group @Cmkmedia
 You can call this as an Auto Filter Bot if you like
 This bot is exclusively made for @Cmkmedia 
-Sorce_MSG =""" https://github.com/godfatherTG/TC-All-Repo-_Bot
+SORCE_MSG =""" https://github.com/godfatherTG/TC-All-Repo-_Bot
