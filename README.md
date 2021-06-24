@@ -28,8 +28,9 @@ Please ADd my channel
 #### developers & updates
 
 * 
-* "https://t.me/Cmkmedia"
-* "
+* 
+* [![TroJanz](https://img.shields.io/badge/Cmk-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/CTMTMT)  
+ㅤㅤㅤㅤㅤㅤㅤ  
 #### support & updates
 [![TroJanz](https://img.shields.io/badge/TC_BOTZ-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TC_BOTZ)  
 ㅤㅤㅤㅤㅤㅤㅤ  
