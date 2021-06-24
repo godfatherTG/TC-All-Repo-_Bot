@@ -31,4 +31,5 @@ Please ADd my channel
 * "https://t.me/Cmkmedia"
 * "
 #### support & updates
-[![trojazhex]https://github.com/godfatherTG/TC-All-Repo-_Bot)
+[![TroJanz](https://img.shields.io/badge/TC_BOTZ-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TC_BOTZ)  
+ㅤㅤㅤㅤㅤㅤㅤ  
