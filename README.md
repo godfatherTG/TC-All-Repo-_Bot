@@ -45,5 +45,4 @@ Thanks To Me 👀
 [![TroJanz](https://img.shields.io/badge/godfatherTC-telegram-orange?style=for-the-badge&logo=github)](https://telegram.dog/godfatherTC)
 
 #### about
-
-#### {hey}
+Joinmy channel = https://telegram.dog/Cmkmedia
