@@ -1,12 +1,12 @@
-#### TC-All-Repo-_Bot
+#### TC-All-Repo-_Bot version 1
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/godfatherTG/TC-All-Repo-_Bot/pulls)
 #### Deploy To version 2
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/godfatherTG/TC-All-Repo-_Bot/pulls)
 
 
-### Deploy to Heroku
+### Deploy to Heroku version 3
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/godfatherTG/TC-All-Repo-_Bot/pulls)
-#### Deploy To version 2
+#### Deploy To version 4
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/godfatherTG/TC-All-Repo-_Bot/pulls)
 
 #### rules
