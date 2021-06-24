@@ -9,15 +9,15 @@
 #### Deploy To version 4
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/godfatherTG/TC-All-Repo-_Bot/pulls)
 
-#### rules
+#### Deploy To version 5
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/godfatherTG/TC-All-Repo-_Bot/pulls)
 
-ADD ME TO GROUP IN MY BOT
-Please ADd my channel
-
-
-
-
-
+#### rule's 
+Add me to group & channels bot make me to admin 
+#### commends
+/Start
+/About
+/help
 #### How to use the bot
 * Add user account to your channel !
 * Add bot to group with admin rights.
