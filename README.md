@@ -38,4 +38,5 @@ Add me to group & channels bot make me to admin
 Thanks To Dan For His Awsome Libary
 Thanks To SpEcHiDe For His Awesome DeleteMessagesRoBot
 Thanks To Me 👀
-⚜️❤️https://github.com/godfatherTG❤️⚜️
+ [![TroJanz](https://img.shields.io/badge/godfatherTG-Develp-orange?style=for-the-badge&logo=github)](https://github.com/godfatherTG)
+
